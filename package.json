@@ -1,0 +1,28 @@
+{
+    "name": "legacyfsrc",
+    "version": "0.0.1",
+    "description": "simple legacy file manager",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Soldy/confrc.git"
+    },
+    "keywords": [
+    ],
+    "author": "Soldy <npmjs@gidigi.com> (http://gidigi.com)",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/Soldy/confrc/issues"
+    },
+    "homepage": "https://github.com/Soldy/confrc#readme",
+    "devDependencies": {
+        "nanoTest": "0.9.9-beta31"
+    },
+    "dependencies": {
+        "clonerc": "0.0.2",
+        "theuniverse": "0.2.2"
+    }
+}
